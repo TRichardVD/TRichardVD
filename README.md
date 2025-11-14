@@ -24,10 +24,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-JavaScript%20%7C%20TypeScript%20%7C%20Node.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Development-JavaScript%20%7C%20C%23%20%7C%20PowerShell-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web-Vue.js%20%7C%20Node.js%20%7C%20Adonis.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Docker%20%7C%20Testing-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20UX%2FUI-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Azure-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB%20%7C%20Redis-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
