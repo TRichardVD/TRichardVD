@@ -3,22 +3,6 @@
 </p>
 
 ---
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=TRichardVD&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=9B59B6&bg_color=22223B" alt="TRichardVD GitHub stats" /><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TRichardVD&theme=tokyonight&hide_border=true&background=22223B&stroke=9B59B6" alt="Streak"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=TRichardVD&theme=onestar&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <b>🎓 Computer Science Student | Academic Projects & Labs</b>
 </p>
